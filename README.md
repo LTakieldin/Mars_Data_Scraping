@@ -1,4 +1,4 @@
-# Mars_Data_Scraping
+# Mars Data Scraping
 ## This project consists of two technical products:
 Deliverable 1: Scrape titles and preview text from Mars news articles.
 

@@ -10,7 +10,7 @@ Deliverable 2: Scrape and analyze Mars weather data, which exists in a table.
 [Mars News](https://static.bc-edx.com/data/web/mars_news/index.html)
 
 To complete this deliverable, a Beautiful Soup object was created to extract the text elements from the website.
-Each title-and-preview pair was stored in a Python dictionary,
+Each title-and-preview pair was stored in a Python dictionary to view each articles title and preview.
 
 ### Deliverable 2: Scrape and Analyze Mars Weather Data
 *NOTE*: The source link for this deliverable is below:
